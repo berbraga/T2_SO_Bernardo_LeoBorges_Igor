@@ -1,0 +1,3 @@
+C:/Users/berna/CLionProjects/T2_SO_Bernardo_LeoBorges_Igor/cmake-build-debug/CMakeFiles/T2_SO_Bernardo_LeoBorges_Igor.dir
+C:/Users/berna/CLionProjects/T2_SO_Bernardo_LeoBorges_Igor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/berna/CLionProjects/T2_SO_Bernardo_LeoBorges_Igor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

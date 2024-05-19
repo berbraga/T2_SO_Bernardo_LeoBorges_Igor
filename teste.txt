@@ -1,0 +1,1 @@
+esse é um outro arquico de nome teste.txt que esta dentro de um arquivo img
